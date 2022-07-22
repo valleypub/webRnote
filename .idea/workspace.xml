@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web-R-note:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dee48fd-68f6-4e97-9352-d9dee17f711e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Learning\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BSUsQ97SCeOX3BIutI7L695CNH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seckill-demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kang.webRnote" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.web-R-note [tomcat7:run]">
+    <configuration name="TestDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-R-note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kang.webRnote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kang.webRnote" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.webRnote.TestDB" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-R-note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kang.webRnote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kang.webRnote" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.webRnote.TestUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser.testQueryUserByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-R-note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kang.webRnote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kang.webRnote" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.webRnote.TestUser" />
+      <option name="METHOD_NAME" value="testQueryUserByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser.tsetAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-R-note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kang.webRnote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kang.webRnote" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.webRnote.TestUser" />
+      <option name="METHOD_NAME" value="tsetAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="web-R-note [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.63" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web-R-note:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web_R_note_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_web-R-note" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64985" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web-R-note:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDB" />
+      <item itemvalue="JUnit.TestUser" />
+      <item itemvalue="JUnit.TestUser.testQueryUserByName" />
+      <item itemvalue="JUnit.TestUser.tsetAdd" />
+      <item itemvalue="Maven.web-R-note [tomcat7:run]" />
+      <item itemvalue="Tomcat Server.tomcat9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUser.tsetAdd" />
+        <item itemvalue="JUnit.TestUser.testQueryUserByName" />
+        <item itemvalue="JUnit.TestUser" />
+        <item itemvalue="JUnit.TestDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dee48fd-68f6-4e97-9352-d9dee17f711e" name="Default Changelist" comment="" />
+      <created>1656899185603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656899185603</updated>
+      <workItem from="1656899187055" duration="683000" />
+      <workItem from="1656899892550" duration="36185000" />
+      <workItem from="1657036488901" duration="1519000" />
+      <workItem from="1657069458599" duration="84378000" />
+      <workItem from="1657241869678" duration="8737000" />
+      <workItem from="1657356500891" duration="744000" />
+      <workItem from="1657525255613" duration="935000" />
+      <workItem from="1657526230388" duration="17432000" />
+      <workItem from="1657555652460" duration="1819000" />
+      <workItem from="1657960543128" duration="873000" />
+      <workItem from="1658055081020" duration="1420000" />
+      <workItem from="1658122718203" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Tomcat_Server" timestamp="1656905577417">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Tomcat_Server/0.0.1280.680@0.0.1280.680" timestamp="1656905577417" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657177358683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1657177358683" />
+    <state x="375" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657113585391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1657113585391" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1656923581984">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1656923581984" />
+    <state x="392" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1657526840915">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="392" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1657526840915" />
+    <state x="425" y="199" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1657176338024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="199" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1657176338024" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1658122727461">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1658122727461" />
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom" timestamp="1657557553054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1657557553054" />
+    <state width="1237" height="192" key="GridCell.Tab.0.center" timestamp="1657557553054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1657557553054" />
+    <state width="1237" height="192" key="GridCell.Tab.0.left" timestamp="1657557553054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1657557553054" />
+    <state width="1237" height="192" key="GridCell.Tab.0.right" timestamp="1657557553054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1657557553054" />
+    <state width="1237" height="343" key="GridCell.Tab.1.bottom" timestamp="1657555631568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1657555631568" />
+    <state width="1237" height="343" key="GridCell.Tab.1.center" timestamp="1657555631568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1657555631568" />
+    <state width="1237" height="343" key="GridCell.Tab.1.left" timestamp="1657555631568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1657555631568" />
+    <state width="1237" height="343" key="GridCell.Tab.1.right" timestamp="1657555631568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1657555631568" />
+    <state width="845" height="273" key="GridCell.Tab.2.bottom" timestamp="1656951121097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="273" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1656951121097" />
+    <state width="845" height="273" key="GridCell.Tab.2.center" timestamp="1656951121097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="273" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1656951121097" />
+    <state width="845" height="273" key="GridCell.Tab.2.left" timestamp="1656951121097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="273" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1656951121097" />
+    <state width="845" height="273" key="GridCell.Tab.2.right" timestamp="1656951121097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="273" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1656951121097" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1657534324079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1657534324079" />
+    <state x="28" y="36" key="new project wizard" timestamp="1657960822074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1657960822074" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1657191452183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1657191452183" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/LoginAccessFilter.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/LoginAccessFilter.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/LoginAccessFilter.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/LoginAccessFilter.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/LoginAccessFilter.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/LoginAccessFilter.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/EncodingFilter.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kang/webRnote/filter/EncodingFilter.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
