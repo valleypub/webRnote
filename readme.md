@@ -31,9 +31,9 @@
 
 ## 使用说明
 
-登录页面：http://kanghaiquan.top:8080/login/toLogin
+登录页面：http://java.kanghaiquan.top:8081/web-R-note/
 
-账号密码: 1300000000/123456
+账号密码: zhangsan 123456
 
 
 
